@@ -4,7 +4,7 @@ Banana Leaf Disease Classification Using Deep Learning CNN <br/>
 ● Data Split: 80% train / 10% validation / 10% test<br/>
 ● Architectures Evaluated: ResNet34, ResNet50, MobileNetV2<br/>
 ● Training Setup: 100 epochs on Kaggle P100 GPU with NVIDIA CUDA, CLAHE preprocessing, Adam optimizer.<br/>
-● Deployed GUI using Streamlit.< br / >
+● Deployed GUI using Streamlit.<br/>
 
 ![Overall Metics Comparison](https://github.com/user-attachments/assets/030e65ff-c457-456d-9332-28d8924cda9a)<br/>
 
