@@ -106,7 +106,7 @@ val_transform = transforms.Compose([
 # Load the pre-trained model with specific layer freezing
 @st.cache_resource  # Cache the model to avoid reloading on every run
 def load_model():
-    model_path = r"G:\Research - Banana Leaf Disease Classifcation\Kaggle\ResNet50_weights_only.pth"  # Path to the trained model
+    model_path = "\Kaggle\ResNet50_weights_only.pth"  # Path to the trained model
 
     model = models.resnet50(weights=models.ResNet50_Weights.IMAGENET1K_V1)  # Load pre-trained ResNet50 model
 
