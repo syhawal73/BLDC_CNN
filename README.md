@@ -7,7 +7,7 @@ Banana Leaf Disease Classification Using Deep Learning CNN <br/>
 
 <br/>![image](https://github.com/user-attachments/assets/19678dc9-795a-4a78-8cd7-65fc7cf794a1)<br/>
 
-![image](https://github.com/user-attachments/assets/cfb3fc6c-36e0-4adb-9244-b0d6c5b3b08b)<br/>
+![image](https://github.com/user-attachments/assets/e5d7d498-ea6d-4127-8f17-b4ddd9554683)<br/>
 
 ![0](https://github.com/user-attachments/assets/63df6604-934e-46b6-8d49-c019035a3fbc)<br/>
 
