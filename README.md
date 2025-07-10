@@ -1,7 +1,7 @@
 # BLDC_CNN
 Banana Leaf Disease Classification Using Deep Learning CNN <br/>
 ● Dataset: 3,000+ images (original + augmented) across 7 classes - Cordana, Healthy Leaf, Insect Pest, Moko, Pestalotiopsis, Panama, Pest Sigatoka.<br/>
-● Architectures Evaluated: DenseNet121, ResNet50, MobileNetV3<br/>
+● Architectures Evaluated: DenseNet121, ResNet50, MobileNetV2, EfficientNetB0<br/>
 ● Training Setup: 100 epochs (with early stopping) on Kaggle P100 GPU with NVIDIA CUDA, CLAHE preprocessing, Adam optimizer.<br/>
 ● Deployed GUI using Streamlit.<br/>
 
