@@ -5,7 +5,9 @@ Banana Leaf Disease Classification Using Deep Learning CNN <br/>
 ● Training Setup: 100 epochs (with early stopping) on Kaggle P100 GPU with NVIDIA CUDA, CLAHE preprocessing, Adam optimizer.<br/>
 ● Deployed GUI using Streamlit.<br/>
 
-<br/>![image](https://github.com/user-attachments/assets/1a093a3a-d293-481f-bb3b-206513fe3f7e)<br/>
+<br/>![image](https://github.com/user-attachments/assets/19678dc9-795a-4a78-8cd7-65fc7cf794a1)<br/>
+
+![image](https://github.com/user-attachments/assets/cfb3fc6c-36e0-4adb-9244-b0d6c5b3b08b)<br/>
 
 ![0](https://github.com/user-attachments/assets/63df6604-934e-46b6-8d49-c019035a3fbc)<br/>
 
